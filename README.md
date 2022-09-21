@@ -6,6 +6,7 @@
 
 Desafio proposto no evento Next Level Week da Rocketseat a fim de criar uma lista com meus filmes e séries favoritos.
 
+[ 🔗 Acesse aqui <a href="https://btwbeatriz.github.io/nlw-movies-challenge-explorer/">]()
 ## 👩‍💻 Tecnologias
 
 - HTML
